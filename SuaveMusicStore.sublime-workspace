@@ -1,0 +1,813 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Pay",
+				"PayLockReposRoot"
+			],
+			[
+				"BootView-Web",
+				"BootView-WebServices"
+			],
+			[
+				"BootVi",
+				"BootView-WebServices"
+			],
+			[
+				"Boot",
+				"BootView-WebServices"
+			],
+			[
+				"Web",
+				"WebServicesClient"
+			],
+			[
+				"Boo",
+				"BootView"
+			],
+			[
+				"T",
+				"Ticket_Eligibility_Id	Guid { get; set; }"
+			],
+			[
+				"tick",
+				"ticketStateInclusiveInd	bool"
+			],
+			[
+				"Tick",
+				"TicketStateInclusiveInd	bool { get; set; }"
+			],
+			[
+				"ori",
+				"originalRule	Rule"
+			],
+			[
+				"Sin",
+				"SingleById<T>(object idValue)	T"
+			],
+			[
+				"Tic",
+				"TicketMinDate	DateTime { get; set; }"
+			],
+			[
+				"host",
+				"hostEmail"
+			],
+			[
+				"tot",
+				"totalDuration"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Att",
+				"attendeeName"
+			],
+			[
+				"ra",
+				"rawDataMatrix"
+			],
+			[
+				"us",
+				"users1"
+			],
+			[
+				"eng",
+				"engineer"
+			],
+			[
+				"user",
+				"userReport"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"en",
+				"engineer"
+			],
+			[
+				"enginee",
+				"engineerInteractions"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"retu",
+				"returns	Returns documentation tag"
+			],
+			[
+				"_",
+				"_defaultUpdaters"
+			],
+			[
+				"messa",
+				"messages"
+			],
+			[
+				"tem",
+				"tempFile"
+			],
+			[
+				"In",
+				"Invoke-Sqlcmd"
+			],
+			[
+				"ftp",
+				"ftpOutputPath"
+			],
+			[
+				"Reset-",
+				"Reset-CollectionsData-DB"
+			],
+			[
+				"Wrie",
+				"Write-Host"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 73.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pal",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"gosu",
+				"GoSublime: Activate 9o"
+			],
+			[
+				"om",
+				"OmniSharpSublime: Code Actions"
+			],
+			[
+				"omb",
+				"OmniSharpSublime: ReBuild"
+			],
+			[
+				"omni",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"scop",
+				"Toggle ScopeAlways"
+			],
+			[
+				"PackageRe",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PackageRes",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"scope",
+				"Toggle ScopeAlways"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"OmniSharpSublime: Build"
+			],
+			[
+				"omnishar",
+				"OmniSharpSublime: Code Actions"
+			],
+			[
+				"omnisharp",
+				"OmniSharpSublime: Clean"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"set",
+				"Set Syntax: C#"
+			],
+			[
+				"buil",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"powers",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"powersh",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 352.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/_dev/SuaveMusicStore/SuaveMusicStore/SuaveMusicStore.fsproj",
+		"/C/_dev/PayLock/BootView-Web/BusinessObjects/TicketImporter/Program.cs",
+		"/C/Users/Josiah/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/C/_dev/SignalROWIN/paket.dependencies",
+		"/C/_dev/SignalROWIN/.paket/paket.targets",
+		"/C/Users/Josiah/Downloads/pizzas.json",
+		"/C/Users/Josiah/Downloads/olo-coding/The top 20 - result.txt",
+		"/C/Users/Josiah/Downloads/olo-coding/runme.bat",
+		"/C/_dev/Morebetter/LandingTest/index.html",
+		"/C/_dev/SignalROWIN/.gitignore",
+		"/C/Users/Josiah/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/_dev/Morebetter/LandingTest/css/main.css",
+		"/C/Users/Josiah/Desktop/map.shp",
+		"/C/Users/Josiah/Desktop/landuse.shp",
+		"/C/_dev/Morebetter/PricingModelStudy/FSharpWeb/Web.config",
+		"/C/_dev/Morebetter/PricingModelStudy/ConsoleApplication/ConsoleApplication.fsproj",
+		"/C/_dev/Morebetter/PricingModelStudy/FSharpWeb/FSharpWeb.fsproj",
+		"/C/_dev/Morebetter/PricingModelStudy/PricingModelStudy.sln",
+		"/C/_dev/SDFCalc/.gitignore",
+		"/C/_dev/GitHub/adoptopus/app/views/about/index.html.erb",
+		"/C/_dev/GitHub/adoptopus/app/views/home/index.html.erb",
+		"/C/_dev/GitHub/adoptopus/app/views/layouts/application.html.erb",
+		"/C/Users/Josiah/Downloads/client_secret_336703118635-jps2fok5oj0doq4eoghrdeulmui62nq1.apps.googleusercontent.com.json",
+		"/C/Users/Josiah/.dnx/bin/packages/global.json",
+		"/C/Users/Josiah/.dnx/bin/user-secret.cmd",
+		"/C/Users/Josiah/.dnx/packages/Microsoft.Framework.Configuration.UserSecrets/1.0.0-beta6/repo.json",
+		"/C/Users/Josiah/.dnx/packages/Microsoft.Framework.Configuration.UserSecrets/1.0.0-beta7/repo.json",
+		"/C/Users/Josiah/.dnx/alias/default.txt",
+		"/C/Users/Josiah/Desktop/adoptopus.com.zone",
+		"/C/_dev/GitHub/adoptopus-net/README.md",
+		"/C/_dev/GitHub/adoptopus/app/views/contact/index.html.erb",
+		"/C/_dev/GitHub/adoptopus/app/assets/stylesheets/main.css",
+		"/C/_dev/GitHub/adoptopus/app/assets/stylesheets/application.css",
+		"/C/_dev/GitHub/adoptopus/app/assets/stylesheets/home.scss",
+		"/C/_dev/GitHub/adoptopus/app/assets/javascripts/home.coffee",
+		"/C/_dev/GitHub/adoptopus/app/assets/javascripts/application.js",
+		"/C/_dev/GitHub/adoptopus-net/.gitignore",
+		"/C/_dev/GitHub/adoptopus.net/.gitignore",
+		"/C/Users/Josiah/Downloads/OID614762.job",
+		"/C/_dev/GitHub/adoptopus/Gemfile",
+		"/C/Users/Josiah/Downloads/newrelic.yml",
+		"/C/Users/Josiah/Google Drive/adoptopus ssh public key.pkey",
+		"/D/VirtualBox VMs/Ubuntu Dev 2/Ubuntu Dev 2.vbox",
+		"/C/Users/Josiah/Google Drive/josiahdj public ssh key.pem",
+		"/C/Ruby22/lib/ruby/site_ruby/2.2.0/rubygems/ssl_certs/Cert.pem",
+		"/C/RubyDevKit/config.yml",
+		"/C/_dev/GitHub/adoptopus.old/azure public key.key",
+		"/C/_dev/GitHub/adoptopus.old/azure OpenSSH key",
+		"/C/_dev/GitHub/adoptopus.old/adoptopus azure key.ppk",
+		"/C/_dev/GitHub/adoptopus.old/adoptopus azure key.pem",
+		"/C/_dev/GitHub/adoptopus/README.md",
+		"/C/Users/Josiah/AppData/Roaming/Sublime Text 3/Packages/GoSublime/9o.md",
+		"/C/Users/Josiah/AppData/Roaming/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/C/_dev/Go/hello.go",
+		"/C/Users/Josiah/AppData/Local/Temp/Temp1_BusinessObjects.zip/BusinessObjects/PayLock.BootView.Business.nuspec",
+		"/C/_dev/PayLock/moveWebServicesClient-TODO.txt",
+		"/C/_dev/PayLock/RearrangeWebServicesClient.ps1",
+		"/C/_dev/PayLock/CustomCredentialsMap.txt",
+		"/C/Users/Josiah/Documents/WindowsPowerShell/Modules/PowerShellMisc/Copy-PLRepoSubFolderToOtherRepo/Copy-PLRepoSubFolderToOtherRepo.ps1",
+		"/C/_dev/PayLock/MoveWebServicesClient.ps1",
+		"/C/_dev/PayLock/filemap-ServiceReferences.txt",
+		"/C/_dev/PayLock/filemap-WebReferences.txt",
+		"/C/_dev/PayLock/filemap-WebServicesClient.txt",
+		"/C/_dev/PayLock/BootView-Web/include.txt",
+		"/C/_dev/PayLock/BootView-Web/.hg/store/data/_business_objects/_business_objects/_web_services_client/_alliance_one/_custom_credentials.cs.i",
+		"/C/_dev/PayLock/RearrangeWebServicesClient.ps",
+		"/C/_dev/PayLock/MoveWebServicesClient.bat",
+		"/C/_dev/PayLock/BootView-WebServices/WebServicesClient/WebServicesClient.csproj",
+		"/C/_dev/PayLock/BootView-WebServices/WebServices.sln",
+		"/C/_dev/PayLock/BootView-WebServices/WebServices/WebServices.csproj",
+		"/C/_dev/PayLock/BootView-WebServices/WebServicesTests/WebServicesTests.csproj",
+		"/C/_dev/PayLock/BootView-WebServices/packages/repositories.config",
+		"/C/Users/Josiah/Downloads/PayLock.BootView.Business.nuspec",
+		"/C/_dev/PayLock/BootView-WebServices/Services/WebServices.csproj",
+		"/C/_dev/PayLock/BootView-WebServices/WebServicesTests/WebServiceTests.csproj",
+		"/C/_dev/PayLock/BootView-WebServices/WebServiceTests/WebServiceTests.csproj",
+		"/C/Users/Josiah/AppData/Local/Temp/7zO151A.tmp/PayLock.BootView.Business.nuspec",
+		"/C/_dev/PayLock/BootView-WebServices/Services/packages.config",
+		"/C/_dev/PayLock/BootView-Web/TestsCommon/TestsCommon.nuspec",
+		"/C/_dev/PayLock/BootView-Web/WebApi/BootView.WebApi.ServiceModel/ServiceModel.nuspec",
+		"/C/_dev/PayLock/BootView-Web/BusinessObjects/BusinessObjects/PayLock.BootView.Business.nuspec",
+		"/C/_dev/PayLock/BootView-WebServices/WebServiceTests/packages.config",
+		"/C/_dev/PayLock/BootView-Web/NuGet.config",
+		"/C/_dev/PayLock/BootView-Web/BusinessObjects/DbPocos/DbPocos.csproj",
+		"/C/_dev/PayLock/BootView-Web/TestsCommon/TestsCommon.csproj",
+		"/C/_dev/PayLock/BootView-Web/WebApi/WebApi/BootView.WebApi.csproj",
+		"/C/_dev/PayLock-Other/Team-Stats/ZoomInteractions/anderdb@gmail.com.json",
+		"/C/_dev/PayLock-Other/Team-Stats/ZoomInteractions/users.json",
+		"/C/Users/Josiah/SkyDrive/Documents/IPT/Engineering/Debugging BPS-130 with GXD4023/GetCaseStatusResult-All.json",
+		"/C/Users/Josiah/SkyDrive/Documents/IPT/Engineering/Debugging BPS-130 with GXD4023/GetPreBootResult-All.json",
+		"/C/Users/Josiah/SkyDrive/Documents/IPT/Engineering/Debugging BPS-130 with GXD4023/GetPreBootResult-MappingOnly.json",
+		"/C/Users/Josiah/AppData/Local/Microsoft/Windows/INetCache/Low/IE/Q3R6L0LV/813e87b2-81b0-4803-8da8-077dc2ee4365[1]",
+		"/C/Users/Josiah/Desktop/GXD4023/GetPreBootResult-MappingOnly.json",
+		"/C/Users/Josiah/Desktop/GXD4023/GetPreBootResult-All.json",
+		"/C/Users/Josiah/Desktop/GXD4023/GetCaseStatusResult-All.json",
+		"/C/_dev/PayLock/BootView-Web/WebClient/Secure/ServiceTests/PlateInquiryTest.aspx.cs",
+		"/C/_dev/PayLock/Bootview-BusinessObjects/BusinessObjects/WebServices/Xerox/ACSBillInquiry.cs",
+		"/C/_dev/PayLock/new.txt",
+		"/C/_dev/PayLock/BootView-Web/WebClient/bootview.master",
+		"/C/_dev/PayLock/BootView-Web/WebClient/App_Themes/Default/Global.css",
+		"/C/_dev/PayLock/BootView-Web/WebClient/PayLock.BootView.Client.csproj",
+		"/C/_dev/PayLock/BootView-Web/WebClient/Scripts/Common.js",
+		"/C/_dev/PayLock/BootView-Web/WebClient/bootview.master.cs",
+		"/C/_dev/PayLock/BootView-Web/BootViewWebAll.sublime-project",
+		"/C/_dev/PayLock/Bootview-BusinessObjects/BusinessObjects/BusinessObjects.csproj",
+		"/C/_dev/PayLock/Bootview-BusinessObjects/BusinessObjects.sln",
+		"/C/_dev/PayLock/BootView-Web/ServerControls/PayLock.BootView.Client.ServerControls.csproj",
+		"/C/_dev/PayLock-Other/bootiew-buildtools/NuGet/NugetRestore.bat",
+		"/C/Users/Josiah/Desktop/TODO-AppendBillsToVehicleInQuestion.txt",
+		"/C/_dev/PayLock/Bootview-BusinessObjects/BusinessObjects/Eligibility/VehicleInQuestion.cs",
+		"/C/_dev/PayLock/BootView-DB/Stored Procedures/spCollectionNoticeRecords.sql",
+		"/C/_dev/PayLock/BootView-DB/Stored Procedures/spVehicleBootRecords.sql",
+		"/C/_dev/PayLock/BootView-DB/Stored Procedures/spVehicleBills.sql",
+		"/C/_dev/PayLock/Bootview-Batches/ScofflawImporter/Runner/App.config",
+		"/C/_dev/PayLock/BootView-DB/Stored Procedures/spCollectionLoadBills.sql",
+		"/C/_dev/PayLock/BootView-DB/Stored Procedures/spGetCollectionFromVehicle.sql",
+		"/C/_dev/PayLock/Bootview-BusinessObjects/FunctionalTests/Eligibility/NoIoBootEligibilityTests2.cs",
+		"/C/Users/Josiah/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/commands/run_unit_tests.py",
+		"/C/_dev/PayLock/Bootview-BusinessObjects/BusinessObjects/Vehicle.cs",
+		"/C/_dev/PayLock/Bootview-BusinessObjects/DbPocos/Models/Vehicle_Extra.cs",
+		"/C/_dev/PayLock/Bootview-BusinessObjects/FunctionalTests/FunctionalTests.csproj",
+		"/C/_dev/PayLock/Bootview-BusinessObjects/BusinessObjects.sublime-project",
+		"/C/_dev/PayLock/interactions/index.html",
+		"/C/Users/Josiah/Desktop/New Hires.txt",
+		"/C/_dev/PayLock/interactions/msilverman@paylock.com.json",
+		"/C/_dev/PayLock/BootView-Web/WebClient/Secure/Admin/Customer/Batches/batches.service.module.js",
+		"/C/_dev/PayLock/interaction analysis/zoom users.json",
+		"/c/_dev/PayLock/Bootview-Batches/ScofflawImporter/Importers/Core/ScofflawTicketImporterBase.cs"
+	],
+	"find":
+	{
+		"height": 61.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open folders>",
+			"C:\\_dev\\PayLock\\BootView-DB\\Stored Procedures",
+			"<open files>",
+			"C:\\_dev\\PayLock\\Bootview-Batches\\ScofflawImporter\\BlackBoxTesting\\v1",
+			"C:\\Users\\Josiah\\Desktop\\BOOT-2267\\Logs",
+			"C:\\_dev\\PayLock\\Bootview-Batches,*.config",
+			"C:\\_dev\\PayLock\\Bootview-Batches,*.csproj",
+			"C:\\_dev\\PayLock\\Bootview-Batches",
+			"C:\\_dev\\PayLock\\BootView-Batches,*.csproj",
+			"C:\\_dev\\PayLock\\BootView-Batches,*.csproj,packages.config",
+			"C:\\_dev\\PayLock\\BootView-Batches,*.csproj,*.config",
+			"C:\\_dev\\PayLock\\BootView-Batches\\,*.csproj,*.config",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,packages.config,*.csproj,C:\\_dev\\PayLock\\BootView-TestsCommon,C:\\_dev\\PayLock\\BootView-Web,C:\\_dev\\PayLock\\BootView-WebApi,C:\\_dev\\PayLock\\BootView-WebServices",
+			"C:\\_dev\\PayLock\\BootView-Batches,*.csproj",
+			"C:\\_dev\\PayLock\\BootView-Batches,packages.config",
+			"C:\\_dev\\PayLock\\BootView-Batches,*.csproj",
+			"C:\\_dev\\PayLock\\BootView-Batches,*.csproj,packages.config",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,*.csproj,C:\\_dev\\PayLock\\BootView-TestsCommon,C:\\_dev\\PayLock\\BootView-Web,C:\\_dev\\PayLock\\BootView-WebApi,C:\\_dev\\PayLock\\BootView-WebServices",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,packages.config,*.csproj,C:\\_dev\\PayLock\\BootView-TestsCommon,C:\\_dev\\PayLock\\BootView-Web,C:\\_dev\\PayLock\\BootView-WebApi,C:\\_dev\\PayLock\\BootView-WebServices",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,packages.config,*.csproj,C:\\_dev\\PayLock\\BootView-TestsCommon",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,*.config,*.csproj,C:\\_dev\\PayLock\\BootView-TestsCommon",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,*.config,*.csproj",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,C:\\_dev\\PayLock\\BootView-TestsCommon,C:\\_dev\\PayLock\\BootView-Web,C:\\_dev\\PayLock\\BootView-WebApi,C:\\_dev\\PayLock\\BootView-WebServices,*.csproj",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,C:\\_dev\\PayLock\\BootView-TestsCommon,C:\\_dev\\PayLock\\BootView-Web,C:\\_dev\\PayLock\\BootView-WebApi,C:\\_dev\\PayLock\\BootView-WebServices,*.config",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,C:\\_dev\\PayLock\\BootView-TestsCommon,C:\\_dev\\PayLock\\BootView-Web,C:\\_dev\\PayLock\\BootView-WebApi,C:\\_dev\\PayLock\\BootView-WebServices,*.csproj,*.config",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,C:\\_dev\\PayLock\\BootView-TestsCommon,C:\\_dev\\PayLock\\BootView-Web,C:\\_dev\\PayLock\\BootView-WebApi,C:\\_dev\\PayLock\\BootView-WebServices",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,C:\\_dev\\PayLock\\BootView-TestsCommon,C:\\_dev\\PayLock\\BootView-Web,C:\\_dev\\PayLock\\BootView-WebApi,C:\\_dev\\PayLock\\BootView-WebServices,*.config",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,C:\\_dev\\PayLock\\BootView-TestsCommon,C:\\_dev\\PayLock\\BootView-Web,C:\\_dev\\PayLock\\BootView-WebApi,C:\\_dev\\PayLock\\BootView-WebServices,*.csproj",
+			"C:\\_dev\\PayLock\\BootView-BusinessObjects,C:\\_dev\\PayLock\\BootView-TestsCommon,C:\\_dev\\PayLock\\BootView-Web,C:\\_dev\\PayLock\\BootView-WebApi,C:\\_dev\\PayLock\\BootView-WebServices"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"green peppers",
+			"FSharpWebTutorial1",
+			"ConsoleApplication",
+			"border-radius",
+			"btn",
+			"copy",
+			"logo",
+			"header",
+			"img",
+			"copyright",
+			"container",
+			"signup",
+			"cta",
+			"256",
+			"rails",
+			"ruby",
+			"WebServicesClient",
+			"\\",
+			"/",
+			"Release",
+			"		{ACF2C036-33B9-465B-A9E4-2FFB26F20FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU\n		{ACF2C036-33B9-465B-A9E4-2FFB26F20FB3}.Release|Any CPU.Build.0 = Release|Any CPU\n",
+			"UserIsCanaryTester",
+			"UserIsInCanaryMode",
+			"canary",
+			"canary-",
+			"canary-group",
+			"Production",
+			"spCollectionNoticeRecords",
+			"Debug",
+			"engineer",
+			"engineers",
+			"engineer",
+			"Gad",
+			"-06-",
+			"prefer",
+			"count",
+			"\n      ",
+			"Engineering",
+			"storage.type.source.cs",
+			"interface",
+			"14940PP2013",
+			"KOLJAZZ",
+			"_build_payload",
+			"LOCK_ENTRY_ROUTINE",
+			"LOCK_PASSWORD",
+			"patternsToIgnore",
+			"Get-DbTableDiff",
+			"Get-DbDiff",
+			"Performing DB diff between",
+			"DB diff",
+			"Performing DB diff between",
+			"DedicatedAdministratorConnection",
+			"Copy-Database",
+			"This may take some time...",
+			"Test-BatchProcess",
+			"Invoke-BatchProcess",
+			"Command line arguments:",
+			"arguments",
+			"Command line arguments",
+			"Command line arguments:",
+			"Copying BootView",
+			"Copying BootView-PreTestBaseline to BootView",
+			"Invoke-Sqlcmd",
+			"IsActive",
+			"Inelibigle",
+			"..\\..\\BootView-Batches-V1\\",
+			"..\\",
+			"BootView-DB\\",
+			"$script:dacProfile",
+			"$script:dacPackage",
+			"dacService",
+			"BootView",
+			"Boot",
+			"BootView",
+			"function Init-BootView-DB() {\n	if (-not $script:BootViewDacService) {\n		Write-Verbose \"DBReset: Loading BootView DACPAC and publishing profile.\"\n		Add-Type -Path \"${env:ProgramFiles(x86)}\\Microsoft SQL Server\\110\\DAC\\bin\\Microsoft.SqlServer.Dac.dll\" \n		\n		$publishXmlPath = Get-ScriptRelativePath \"..\\..\\BootView-DB\\PublishProfiles\\Development.publish.xml\"\n		if (-not (Test-Path $publishXmlPath)) {\n			Write-Warning \"DBReset: Publish profile not found at $publishXmlPath.\"\n			throw \"DBReset: Publish profile not found at $publishXmlPath.\"\n		}\n		$publishXmlPath = Resolve-Path $publishXmlPath\n		\n		$dacpacPath = Get-ScriptRelativePath \"..\\..\\BootView-DB\\bin\\Debug\\BootView.dacpac\"\n		if (-not (Test-Path $dacpacPath)) {\n			Write-Warning \"DBReset: DACPAC not found at $dacpacPath.\"\n			throw \"DBReset: Publish profile not found at $dacpacPath.\"\n		}\n		$dacpacPath = Resolve-Path $dacpacPath\n		\n		$script:BootViewDacProfile = [Microsoft.SqlServer.Dac.BootViewDacProfile]::Load($publishXmlPath)\n		$script:BootViewDacService = New-Object Microsoft.SqlServer.dac.BootViewDacServices ($script:BootViewDacProfile.TargetConnectionString)\n		$script:BootViewDacPackage = [Microsoft.SqlServer.Dac.BootViewDacPackage]::Load($dacpacPath)\n	}\n}\n\nfunction Reset-BootView-DB() {\n	Init-BootView-DB\n	Write-Host \"DBReset: Deploying BootView DB. This may take some time...\"\n	\n	$sw = [Diagnostics.Stopwatch]::StartNew()	\n	$script:BootViewDacService.deploy($script:BootViewDacPackage, $script:BootViewDacProfile.TargetDatabaseName, $true, $script:BootViewDacProfile.DeployOptions)			\n	$sw.Stop()\n	Write-Verbose \"DBReset: Deploy Time: $($sw.Elapsed.TotalSeconds) seconds\"\n}\n",
+			"dacPackage",
+			"dacProfile",
+			"dacService",
+			"\"testinput\" = \"(.*)\"",
+			"CityConfigFromDB",
+			",",
+			"'",
+			"\\t",
+			" ",
+			"spMunicipalityVehiclesLoadByCustomerId",
+			"spGetBillTypesByPaymentGatewayCustomerId",
+			"spExemptVehiclesLoadCustomerId",
+			"spTACSUpdateLicenseTags",
+			"spMunicipalityFileUpdate",
+			"spGetMunicipalityVehicle",
+			"exist BOOT: 2 / TOW: 2",
+			"PayLock.BootView.Business.WebServices.NYCServ.NYCTicketInquiry [(null)] ",
+			"word wrap",
+			"CPL8684-NY",
+			"exist BOOT: 2 / TOW: 2",
+			"^.*WARN  - .*$\\n",
+			"^.*In 'UpdateFee'.*$",
+			"^.*Updating Fee.*$",
+			"^.*WARN  - BOOT-2267.*$",
+			"^.*In 'UpdateFee'.*$",
+			"^.*Updating Fee.*$",
+			",",
+			"_Notice_Type",
+			"1.2.11",
+			"2.1.11",
+			"log4net.2.0.0",
+			"1.2.11",
+			"1.2.13",
+			"1.2.11",
+			"log4net",
+			"1.2.11",
+			"DLLs",
+			"1.2.11",
+			"log4net",
+			"Text",
+			"-o.*$",
+			"Assembly",
+			"BootView",
+			"Scripts",
+			".sql",
+			"E:\\TeamCity\\BuildAgent1\\work\\3751514a79a01a79",
+			"PayLock.PaymentProcessing.8.21.10",
+			"Include=\"PayLock.PaymentProcessing, Version=8.21.10.0",
+			"PayLock.PaymentProcessing",
+			"package id=\"PayLock.PaymentProcessing\" version=\"8.21.10\"",
+			"PayLock.PaymentProcessing",
+			"packages",
+			"package id=\"log4net\" version=\"2.0.0\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"FSharpWeb",
+			"/",
+			"\\",
+			"host",
+			"hosts",
+			"Ineligible",
+			"..\\..\\..\\BootView-Batches-V1\\",
+			"BootView-CollectionsData\\CollectionData\\",
+			"$script:CollectionsDacProfile",
+			"$script:CollectionsDacPackage",
+			"CollectionsDacService",
+			"Collections",
+			"CollectionsData",
+			"BootViewDacPackage",
+			"BootViewDacProfile",
+			"BootViewDacService",
+			"dacService",
+			"\"testinput\" = @(\"$1\")",
+			"\\n",
+			"\\r\\n",
+			"''",
+			",",
+			"",
+			"1.2.13",
+			"log4net.2.0.3",
+			"",
+			"C:\\_dev\\PayLock",
+			"PayLock.PaymentProcessing.8.26.22",
+			"Include=\"PayLock.PaymentProcessing, Version=8.26.22.0",
+			"package id=\"PayLock.PaymentProcessing\" version=\"8.26.22\"",
+			"",
+			"package id=\"log4net\" version=\"2.0.3\"",
+			"packages\\log4net.2.0.3\\lib\\net40-full",
+			"packages\\log4net.2.0.3",
+			"log4net, Version=1.2.13.0",
+			"",
+			"8.25.14",
+			"\\n",
+			"\\r\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SuaveMusicStore.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vehicleinq",
+				"Bootview-BusinessObjects\\BusinessObjects\\Eligibility\\VehicleInQuestion.cs"
+			],
+			[
+				"bill",
+				"ScofflawImporter\\Importers\\Components\\BillPropertyUpdaters.cs"
+			],
+			[
+				"ibillpropertyupdater",
+				"BatchHelpers\\Components\\IBillPropertyUpdater.cs"
+			],
+			[
+				"billpropertyupdaters",
+				"ScofflawImporter\\Importers\\Components\\BillPropertyUpdaters.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\_dev\\PayLock\\Bootview-BusinessObjects\\BusinessObjects.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"DefaultBillPropertyUpdater",
+				"DefaultBillPropertyUpdater"
+			],
+			[
+				"",
+				".NameSpace"
+			]
+		],
+		"width": 1160.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 381.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
